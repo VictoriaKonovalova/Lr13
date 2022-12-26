@@ -18,4 +18,3 @@ if __name__ == "__main__":
     print(sred_geometr(3, 6, 12, 18))
     print(sred_geometr())
     
-    
